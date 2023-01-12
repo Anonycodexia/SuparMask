@@ -11,4 +11,6 @@ git clone https://github.com/Anonycodexia/SuparMask
 
 cd SuperMask
 
+chmod +x supermask.py
+
 python supermask.py
