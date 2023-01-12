@@ -7,7 +7,7 @@ pkg update -y
 
 Pkg install git python -y
 
-git clone https://github.com/Anonycodexia/SuparMask
+git clone https://github.com/Anonycodexia/SuperMask
 
 cd SuperMask
 
